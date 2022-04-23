@@ -5,13 +5,5 @@
 ####but<br>
 *anything*<br>
 ***TEXT***<br>
-:::row:::
-   :::column span="":::
-      Content...
-   :::column-end:::
-   :::column span="":::
-      More content...
-   :::column-end:::
-:::row-end:::
 <!---Comment--->
 &#8220;Anything&#8221;
